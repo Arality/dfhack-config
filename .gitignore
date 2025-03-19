@@ -1,0 +1,16 @@
+# Remove df folders
+autonick.txt
+confirm.json
+/init
+control-panel.json
+launcher.history
+steam_autocloud.vdf
+buildingplan.json
+dfstatus.lua
+launcher.json
+remote-server.json
+command_counts.json
+dwarfmonitor.json
+notify.json
+script-paths.txt
+stonesense
